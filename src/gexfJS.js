@@ -4,7 +4,8 @@
      * GEXF Parser working also with dynamic networks
      *
      * Author: eren-ck (Eren Cakmak)
-     * URL:
+     * URL:https://github.com/eren-ck/gexfJS
+     * Licensed under the MIT License
      */
 
     // Root object, `window` = browser, or `exports` = server.
